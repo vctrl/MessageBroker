@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPy7XLYWj8jyi5bgEa0UPTDyDG2oPx4t/54fYKSpCgzBA2Kqh1LrfWuWbG0EzMBMm6mWYCBF7lycX8G0k1mL6A==",
+  "success": true,
+  "projectFilePath": "/Users/viktor/Projects/MessageBroker/MessageBroker/MessageBroker.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktor/.nuget/packages/confluent.kafka/1.5.2/confluent.kafka.1.5.2.nupkg.sha512",
+    "/Users/viktor/.nuget/packages/librdkafka.redist/1.5.2/librdkafka.redist.1.5.2.nupkg.sha512",
+    "/Users/viktor/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/viktor/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

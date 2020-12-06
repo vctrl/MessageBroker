@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{5F1087FB-9283-4F28-8738-04E39E37550F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1087FB-9283-4F28-8738-04E39E37550F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1087FB-9283-4F28-8738-04E39E37550F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1087FB-9283-4F28-8738-04E39E37550F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1087FB-9283-4F28-8738-04E39E37550F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
